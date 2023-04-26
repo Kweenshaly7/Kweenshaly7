@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **C Programming, HTML/CSS, JavaScript, Phyton, React, Linux and Git**
 
-- 👯 I’m looking to collaborate with **other great Software Engineers**
+- 👯 I’m looking to collaborate with **other great Front-End and Software Engineers**
 
-- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux**
+- 💬 Ask me about: **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux**
 
-- 📫 How to reach me **maryqueensunday@gmail.com**
+- 📫 How to reach me: **maryqueensunday@gmail.com**
 
-- ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
+- ⚡ Fun fact: **I love codes so much that if you talk to me about code; you win my heart.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
