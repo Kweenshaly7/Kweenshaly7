@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://x.com/kweenshaly" target="blank"><img src="https://img.shields.io/twitter/follow/kweenshaly?label=Kweenshaly&style=social" alt="kweenshaly" /></a> </p>
 
-- 🔭 I’m currently enrolled in **ALX SOFTWARE ENGINEERING PROGRAM**
+- 🔭 I’m currently enrolled in **DW CLOUD SECURITY & DEVOPS ENGINEERING PROGRAM**
 
 - 🌱 I’m currently learning **Cloud Security, DevOps, Containerization, Kubernetes, Bash, Linux and Git**
 
