@@ -17,7 +17,7 @@
 
 - 💬 Ask me about: **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux**
 
-- 📫 How to reach me: **Cconsult@maryqueenuch.online**
+- 📫 How to reach me: **consult@maryqueenuch.online**
 
 - ⚡ Fun fact: 
 
