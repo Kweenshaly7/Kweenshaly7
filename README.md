@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://x.com/kweenshaly" target="blank"><img src="https://img.shields.io/twitter/follow/kweenshaly?label=Kweenshaly&style=social" alt="kweenshaly" /></a> </p>
 
-- 🔭 I’m currently enrolled in **DW CLOUD SECURITY & DEVOPS ENGINEERING PROGRAM**
-
 - 🌱 I’m currently learning **Cloud Security, DevOps, Containerization, Kubernetes, Bash, Linux and Git**
 
 - 👯 I’m looking to collaborate with **other great Cloud Engineers**
 
 - 💬 Ask me about: **Git, Github, HTML, CSS, AWS, Docker, CI/CD, Python, Terraform, VI and Linux**
 
-- 📫 How to reach me: **consult@maryqueenuch.online**
+- 📫 How to reach me: **maryqueen.cloud@gmail.com**
 
 - ⚡ Fun fact: 
 
