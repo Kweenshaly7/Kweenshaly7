@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **maryqueen.cloud@gmail.com**
 
-- ⚡ Fun fact: 
+- ⚡ Personal Website: **https://maryqueen.prolaunchgroup.org**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
